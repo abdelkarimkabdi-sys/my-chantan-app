@@ -1,0 +1,130 @@
+{
+ "v": 1,
+ "at": "2026-11-26T13:37:33.001Z",
+ "incomplete": false,
+ "pendingKeysByLang": {
+  "fr": 0
+ },
+ "a": [],
+ "b": [],
+ "c": [
+  {
+   "path": "src/components/ErrorBoundary.tsx",
+   "reason": "class-component",
+   "snippet": "Something went wrong",
+   "line": 32
+  },
+  {
+   "path": "src/components/ErrorBoundary.tsx",
+   "reason": "class-component",
+   "snippet": "An unexpected error occurred. Try refreshing the page.",
+   "line": 34
+  },
+  {
+   "path": "src/components/ErrorBoundary.tsx",
+   "reason": "class-component",
+   "snippet": "Reload",
+   "line": 45
+  },
+  {
+   "path": "src/components/MotionReveal.tsx",
+   "reason": "unclassified-token",
+   "snippet": "-80px",
+   "line": 19
+  },
+  {
+   "path": "src/lib/chantan-ai.ts",
+   "reason": "excluded-dir-text",
+   "snippet": "AI request failed ()",
+   "line": 94
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "Could not read the file.",
+   "line": 72
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "Cancelled.",
+   "line": 105
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "The video is taking too long — try videoStatus(jobId) later.",
+   "line": 124
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "Please use an MP4 or MOV video (the normal phone camera format). Screen recordi…",
+   "line": 200
+  },
+  {
+   "path": "src/lib/chantan-media.ts",
+   "reason": "error-text",
+   "snippet": "Cancelled.",
+   "line": 205
+  },
+  {
+   "path": "src/lib/properties.ts",
+   "reason": "excluded-dir-text",
+   "snippet": "?text=",
+   "line": 77
+  },
+  {
+   "path": "index.html",
+   "reason": "tab-title",
+   "snippet": "<title>DIRDARK — عقارات آيت ملول | Immobilier à Aït Melloul</title>"
+  },
+  {
+   "path": "src/",
+   "reason": "db-content",
+   "snippet": "tables read by the app: properties, site_settings",
+   "count": 2
+  },
+  {
+   "path": "supabase/functions/_shared/cors.ts",
+   "reason": "server-messages",
+   "snippet": "2 text(s) across 1 edge function file(s)",
+   "count": 2
+  },
+  {
+   "path": "src/locales/ar.json",
+   "reason": "foreign-script-key",
+   "snippet": "© 2026 DIRDARK"
+  },
+  {
+   "path": "src/locales/ar.json",
+   "reason": "foreign-script-key",
+   "snippet": "Dirdark.com"
+  },
+  {
+   "path": "src/locales/ar.json",
+   "reason": "foreign-script-key",
+   "snippet": "DIRDARK"
+  },
+  {
+   "path": "src/locales/ar.json",
+   "reason": "foreign-script-key",
+   "snippet": "Titre en français"
+  },
+  {
+   "path": "src/locales/ar.json",
+   "reason": "foreign-script-key",
+   "snippet": "Description en français"
+  },
+  {
+   "path": "src/locales/ar.json",
+   "reason": "foreign-script-key",
+   "snippet": "Oops! Page not found"
+  },
+  {
+   "path": "src/locales/ar.json",
+   "reason": "foreign-script-key",
+   "snippet": "Return to Home"
+  }
+ ]
+}
